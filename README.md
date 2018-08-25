@@ -1,2 +1,2 @@
 # SCIENTIFIC-CALC
-a full scientific calculator coded in python with tkinter. 
+a full scientific calculator written in python with tkinter. 
